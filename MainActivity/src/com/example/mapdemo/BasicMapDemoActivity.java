@@ -26,7 +26,7 @@ import android.support.v4.app.FragmentActivity;
 
 /**
  * This shows how to create a simple activity with a map and a marker on the map.
- * <p>
+ * <p>     
  * Notice how we deal with the possibility that the Google Play services APK is not
  * installed/enabled/updated on a user's device.
  */
